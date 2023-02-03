@@ -1,2 +1,3 @@
 # udemyruby
-ruby files created for udemy course
+ruby program files created for udemy course
+repo was created mid course
